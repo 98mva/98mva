@@ -1,4 +1,4 @@
-- 👋 Hello Folks, I’m MV Akshay 
+- 👋 Hello Folks, I’m Akshay MV  
 - 👀 With overall 5 years of experience in technical support backgroud, got an overview of cloud tech, and would like to explore more on cloud.
 - 🌱 Currently learning AWS cloud
 - 💞️ I’m looking to collaborate on docker projects
